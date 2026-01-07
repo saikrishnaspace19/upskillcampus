@@ -1,4 +1,5 @@
 [saikrishnakumar internship project report_UCT.docx](https://github.com/user-attachments/files/24397831/saikrishnakumar.internship.project.report_UCT.docx)
+
 Smart Grocer is a smart grocery management project developed to improve the efficiency and organization of grocery store operations through digital automation. The main objective of this project is to reduce manual effort in daily store activities such as inventory management, billing, and product tracking, which are often time-consuming and prone to human error in traditional grocery stores. By using a centralized system, Smart Grocer helps store owners manage their business in a more accurate, reliable, and efficient manner.
 
 The system is designed to maintain a digital record of all products available in the store, including item names, quantities, prices, and stock status. Whenever a product is sold, the inventory is automatically updated, ensuring real-time stock monitoring. This helps prevent common problems such as overstocking or running out of essential items. Store managers can easily track fast-moving and slow-moving products, which supports better purchasing and stock planning decisions.
